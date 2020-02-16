@@ -28,9 +28,12 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
+  - course: PhD in Chemistry
+    institution: Washington State University
+    year: 2005
+  - course: BS in Chemistry
+    institution: University of Nevada, Reno
+    year: 2000
 
 
 # Social/Academic Networking
