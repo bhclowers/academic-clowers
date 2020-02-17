@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research broadly focus on the creation, detection, and chemistry of gas-phase ions in support of trace analytical endeavors. 
+bio: My research broadly focuses on the creation, detection, and chemistry of gas-phase ions in support of trace analytical endeavors. 
 
 interests:
 - Ion Mobility Spectrometry
@@ -69,4 +69,4 @@ user_groups:
 - Visitors
 ---
 
-Brian Clowers is an associate professor of chemsitry at Washington State University. Leveraging a range of analytical techniques he captains a small and nimble research vessel. 
+Brian Clowers is an associate professor of chemistry at Washington State University. Leveraging a range of analytical techniques he captains a small and nimble research vessel. 
