@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 25  # Order that this section will appear.
 
-title = "slim 1.0"
+title = ""
 subtitle = ""
 
 [design]
@@ -19,7 +19,7 @@ subtitle = ""
   
   # Background image.
   image = "SLIM_1_v1.JPG"  # Name of image in `static/img/`.
-  image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  image_darken = 0.1  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
   image_size = "actual"  #  Options are `cover` (default), `contain`, or `actual` size.
   image_position = "center"  # Options include `left`, `center` (default), or `right`.
   image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
