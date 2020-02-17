@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Brian H. Clowers
+name: Brian H Clowers
 
 # Username (this should match the folder name)
 authors:
@@ -65,8 +65,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
-- Visitors
+- Principal Investigator
 ---
 
 Brian Clowers is an associate professor of chemistry at Washington State University. Leveraging a range of analytical techniques he captains a small and nimble research vessel. 
