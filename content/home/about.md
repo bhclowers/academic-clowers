@@ -8,4 +8,4 @@ weight = 20  # Order that this section will appear in.
 title = "About the CRG"
 +++
 
-### The Clowers Research Group...
+The Clowers Research
