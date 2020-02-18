@@ -10,7 +10,6 @@ title = "Acadmic-Hugo Notes"
 [image]
 caption = ""
 focal_point = ""
-placement = nil
 
 +++
 Links that may prove useful for managing the website in the future:
