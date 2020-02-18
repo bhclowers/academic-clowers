@@ -10,6 +10,7 @@ title = "Acadmic-Hugo Notes"
 [image]
 caption = ""
 focal_point = ""
+placement = nil
 
 +++
 Links that may prove useful for managing the website in the future:
@@ -22,5 +23,7 @@ To Do:
 
 * Sort publications by date, tag, etc.
 * Add link to publications? (paperpile)
-* Setup projects with thumbnails. 
+* Setup projects with thumbnails.
 * Add a wiki
+* Handle mobile parallax effect...
+  * [https://discourse.gohugo.io/t/why-does-image-not-appear-in-mobile-hugo-academic/20846](https://discourse.gohugo.io/t/why-does-image-not-appear-in-mobile-hugo-academic/20846 "https://discourse.gohugo.io/t/why-does-image-not-appear-in-mobile-hugo-academic/20846")
