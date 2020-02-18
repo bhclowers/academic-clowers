@@ -71,5 +71,5 @@ user_groups:
 
 Brian Clowers is an associate professor of chemistry at Washington State University. Leveraging a range of analytical techniques he captains a small and nimble research vessel. 
 
-[Experience >>](/experience/)
+[View my full profile]({{< ref "/team/clowers/index.md" >}})
 
