@@ -40,7 +40,7 @@ date_format = "Jan 2006"
   location = "Richalnd, WA"
   date_start = "2008-07-01"
   date_end = "2013-07-01"
-  description = "Provided research and trace analytical support for a range of projects supporting the mission of NSD at PNNL."
+  description = "Provided research and trace analytical support for a range of projects supporting the mission of NSD at PNNL. "
   
 [[experience]]
   title = "Post-Doctoral Researcher"
