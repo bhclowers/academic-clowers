@@ -91,7 +91,7 @@ address = {street = "Fulmer Hall", city = "Pullman", region = "WA", postcode = "
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "46.7292653", longitude = "-117.1644099"}
+coordinates = {latitude = "46.729298", longitude = "-117.163678"}
 
 # Directions for visitors to locate you.
 directions = "5th Floor"
