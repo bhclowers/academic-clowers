@@ -5,8 +5,7 @@ categories: []
 date: 2020-02-17
 featured: false
 projects: []
-tags:
-- python, jupyter, ion mobility
+tags: ["python", "jupyter", "ion mobility"]
 title: 'Ion Mobility Calculator: From Fundamentals to the Applied'
 image:
   focal_point: TopLeft
