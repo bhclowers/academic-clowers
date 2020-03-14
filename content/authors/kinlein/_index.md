@@ -1,10 +1,10 @@
 ---
 # Display name
-name: Cameron Naylor
+name: Zack Kinlein
 
 # Username (this should match the folder name)
 authors:
-- naylor
+- kinlein
 
 # Is this the primary user of the site?
 superuser: false
@@ -64,6 +64,6 @@ user_groups:
 
 ---
 
-Naylor is ABD. 
+Kinlein is a Grad Student @ WSU. 
 
 

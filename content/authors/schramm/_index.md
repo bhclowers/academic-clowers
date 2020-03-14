@@ -1,10 +1,10 @@
 ---
 # Display name
-name: Cameron Naylor
+name: Haley Schramm
 
 # Username (this should match the folder name)
 authors:
-- naylor
+- schramm
 
 # Is this the primary user of the site?
 superuser: false
@@ -64,6 +64,6 @@ user_groups:
 
 ---
 
-Naylor is ABD. 
+Schramm joined the group in 2019. 
 
 

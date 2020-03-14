@@ -1,10 +1,10 @@
 ---
 # Display name
-name: Cameron Naylor
+name: Pearl Kwantwi-Barima
 
 # Username (this should match the folder name)
 authors:
-- naylor
+- kwantwibarimas
 
 # Is this the primary user of the site?
 superuser: false
@@ -64,6 +64,6 @@ user_groups:
 
 ---
 
-Naylor is ABD. 
+Kwantwi-Bariam is ABD. 
 
 
