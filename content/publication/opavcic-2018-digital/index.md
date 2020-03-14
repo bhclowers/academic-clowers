@@ -6,5 +6,6 @@ publication_types = ["2"]
 abstract = ""
 featured = false
 publication = "*Journal of mass spectrometry*"
+doi = "10.1002/jms.4295"
 +++
 

@@ -6,5 +6,6 @@ publication_types = ["6"]
 abstract = ""
 featured = false
 publication = "*Microbial Forensics*"
+doi = "10.1016/b978-0-12-382006-8.00026-8"
 +++
 

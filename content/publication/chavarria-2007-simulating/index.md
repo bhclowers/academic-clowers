@@ -6,5 +6,6 @@ publication_types = ["1"]
 abstract = ""
 featured = false
 publication = "*Proceedings of the 1st international workshop on High-performance reconfigurable computing technology and applications: held in conjunction with SC07*"
+doi = "10.1145/1328554.1328563"
 +++
 

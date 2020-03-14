@@ -6,5 +6,6 @@ publication_types = ["2"]
 abstract = ""
 featured = false
 publication = "*TrAC Trends in Analytical Chemistry*"
+doi = "10.1016/j.trac.2019.115625"
 +++
 

@@ -6,5 +6,6 @@ publication_types = ["2"]
 abstract = ""
 featured = false
 publication = "*Journal of proteome research*"
+doi = "10.1021/pr070317z"
 +++
 

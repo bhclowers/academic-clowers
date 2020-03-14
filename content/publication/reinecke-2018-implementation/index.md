@@ -6,5 +6,6 @@ publication_types = ["2"]
 abstract = ""
 featured = false
 publication = "*HardwareX*"
+doi = "10.1016/j.ohx.2018.e00030"
 +++
 

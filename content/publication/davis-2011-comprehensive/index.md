@@ -6,5 +6,6 @@ publication_types = ["2"]
 abstract = ""
 featured = false
 publication = "*International Journal for Ion Mobility Spectrometry*"
+doi = "10.1007/s12127-011-0068-7"
 +++
 

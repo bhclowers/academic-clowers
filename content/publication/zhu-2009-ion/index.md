@@ -6,5 +6,6 @@ publication_types = ["2"]
 abstract = ""
 featured = false
 publication = "*Analytical and bioanalytical chemistry*"
+doi = "10.1007/s00216-009-2865-y"
 +++
 

@@ -6,5 +6,6 @@ publication_types = ["2"]
 abstract = ""
 featured = false
 publication = "*Rapid communications in mass spectrometry*"
+doi = "10.1002/rcm.1419"
 +++
 

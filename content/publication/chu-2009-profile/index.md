@@ -6,5 +6,6 @@ publication_types = ["2"]
 abstract = ""
 featured = false
 publication = "*Proteomics*"
+doi = "10.1002/pmic.200800249"
 +++
 

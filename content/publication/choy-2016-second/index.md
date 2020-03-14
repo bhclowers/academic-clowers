@@ -6,5 +6,6 @@ publication_types = ["2"]
 abstract = ""
 featured = false
 publication = "*Bioconjugate chemistry*"
+doi = "10.1021/acs.bioconjchem.6b00422"
 +++
 

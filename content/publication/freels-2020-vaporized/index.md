@@ -6,5 +6,6 @@ publication_types = ["2"]
 abstract = ""
 featured = false
 publication = "*Journal of Neuroscience*"
+doi = "10.1523/jneurosci.2416-19.2020"
 +++
 

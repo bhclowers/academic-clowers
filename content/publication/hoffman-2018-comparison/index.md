@@ -6,5 +6,6 @@ publication_types = ["2"]
 abstract = ""
 featured = false
 publication = "*Review of Scientific Instruments*"
+doi = "10.1063/1.5004798"
 +++
 

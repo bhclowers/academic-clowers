@@ -6,5 +6,6 @@ publication_types = ["2"]
 abstract = ""
 featured = false
 publication = "*The Journal of Physical Chemistry A*"
+doi = "10.1021/acs.jpca.8b11183"
 +++
 

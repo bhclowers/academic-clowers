@@ -6,5 +6,6 @@ publication_types = ["2"]
 abstract = ""
 featured = false
 publication = "*Talanta*"
+doi = "10.1016/j.talanta.2017.07.090"
 +++
 

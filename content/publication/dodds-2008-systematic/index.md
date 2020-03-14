@@ -6,5 +6,6 @@ publication_types = ["2"]
 abstract = ""
 featured = false
 publication = "*Analytical biochemistry*"
+doi = "10.1016/j.ab.2007.10.009"
 +++
 

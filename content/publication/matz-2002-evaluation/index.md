@@ -6,5 +6,6 @@ publication_types = ["2"]
 abstract = ""
 featured = false
 publication = "*International Journal of Mass Spectrometry*"
+doi = "10.1016/s1387-3806(01)00534-6"
 +++
 

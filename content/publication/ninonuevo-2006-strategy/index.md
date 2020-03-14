@@ -6,5 +6,6 @@ publication_types = ["2"]
 abstract = ""
 featured = false
 publication = "*Journal of agricultural and food chemistry*"
+doi = "10.1021/jf0615810"
 +++
 

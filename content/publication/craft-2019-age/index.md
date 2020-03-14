@@ -6,5 +6,6 @@ publication_types = ["2"]
 abstract = ""
 featured = false
 publication = "*Experimental and clinical psychopharmacology*"
+doi = "10.1037/pha0000257"
 +++
 

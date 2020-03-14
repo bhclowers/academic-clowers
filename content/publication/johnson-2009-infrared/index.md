@@ -6,5 +6,6 @@ publication_types = ["2"]
 abstract = ""
 featured = false
 publication = "*Applied spectroscopy*"
+doi = "10.1366/000370209788964430"
 +++
 

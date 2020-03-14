@@ -6,5 +6,6 @@ publication_types = ["2"]
 abstract = ""
 featured = false
 publication = "*Water research*"
+doi = "10.1016/j.watres.2018.09.003"
 +++
 

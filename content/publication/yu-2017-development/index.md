@@ -6,5 +6,6 @@ publication_types = ["2"]
 abstract = ""
 featured = false
 publication = "*Environmental science & technology*"
+doi = "10.1021/acs.est.6b05969"
 +++
 

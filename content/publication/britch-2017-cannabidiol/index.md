@@ -6,5 +6,6 @@ publication_types = ["2"]
 abstract = ""
 featured = false
 publication = "*Drug and alcohol dependence*"
+doi = "10.1016/j.drugalcdep.2017.01.046"
 +++
 

@@ -6,5 +6,6 @@ publication_types = ["1"]
 abstract = ""
 featured = false
 publication = "*2009 Fifth IEEE International Conference on e-Science*"
+doi = "10.1109/e-science.2009.18"
 +++
 

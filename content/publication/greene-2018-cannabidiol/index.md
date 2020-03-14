@@ -6,5 +6,6 @@ publication_types = ["2"]
 abstract = ""
 featured = false
 publication = "*Psychopharmacology*"
+doi = "10.1007/s00213-018-5036-z"
 +++
 

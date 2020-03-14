@@ -6,5 +6,6 @@ publication_types = ["2"]
 abstract = ""
 featured = false
 publication = "*Journal of microbiological methods*"
+doi = "10.1016/j.mimet.2015.01.015"
 +++
 

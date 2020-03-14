@@ -6,5 +6,6 @@ publication_types = ["2"]
 abstract = ""
 featured = false
 publication = "*Analytical chemistry*"
+doi = "10.1021/ac2003888"
 +++
 

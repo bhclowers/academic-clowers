@@ -6,5 +6,6 @@ publication_types = ["2"]
 abstract = ""
 featured = false
 publication = "*Analyst*"
+doi = "10.1039/c9an01585j"
 +++
 

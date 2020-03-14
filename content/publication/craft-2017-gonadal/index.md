@@ -6,5 +6,6 @@ publication_types = ["2"]
 abstract = ""
 featured = false
 publication = "*Pharmacology Biochemistry and Behavior*"
+doi = "10.1016/j.pbb.2016.09.006"
 +++
 

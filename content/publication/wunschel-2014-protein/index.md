@@ -6,5 +6,6 @@ publication_types = ["2"]
 abstract = ""
 featured = false
 publication = "*Molecular and cellular probes*"
+doi = "10.1016/j.mcp.2013.12.001"
 +++
 
