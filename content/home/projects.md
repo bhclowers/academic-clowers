@@ -30,6 +30,10 @@ subtitle = ""
     tag = "OS-IMS"
   
   [[content.filter_button]]
+    name = "SLIM"
+    tag = "SLIM"
+
+  [[content.filter_button]]
     name = "Other"
     tag = "Demo"
 
