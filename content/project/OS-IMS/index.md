@@ -1,8 +1,9 @@
 ---
 title: Open Source Ion Mobility Spectrometry
-summary: An example of using the in-built project page.
+summary: Pathway to high-performance, low-cost IMS
 tags:
 - OS-IMS
+- ion mobility
 date: 2016-04-27T00:00:00Z
 external_link: ''
 image:
