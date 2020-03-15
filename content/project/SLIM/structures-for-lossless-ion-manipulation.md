@@ -1,8 +1,9 @@
 ---
 title: Structures for Lossless Ion Manipulation
-summary: An example of using the in-built project page.
+summary: Ion manipulation using RF and DC fields.
 tags:
-- OS-IMS
+- SLIM
+- ion mobility
 date: 2016-04-27T00:00:00Z
 external_link: ''
 image:
@@ -15,4 +16,4 @@ url_slides: ''
 url_video: ''
 slides: ''
 ---
-Building upon the monumental efforts by RDS et al. at PNNL, we have implemented
+Building upon the monumental efforts by RDS et al. at PNNL, we have implemented a customized version.
