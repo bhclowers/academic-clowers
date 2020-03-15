@@ -1,5 +1,5 @@
 ---
-title: Open Source Ion Mobility
+title: Open Source Ion Mobility Spectrometry
 summary: An example of using the in-built project page.
 tags:
 - OS-IMS
